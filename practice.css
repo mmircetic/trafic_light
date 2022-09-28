@@ -1,0 +1,47 @@
+
+#trafic{
+	display: table;
+	margin: 0 auto;
+	width: 100px;
+	height: 300px;
+    background-color: black;
+    border: 1px solid black;
+    
+}
+
+#firstLight{
+	border-radius: 50%;
+	border: 1px solid red;
+	width: 90px;
+	height: 90px;
+	margin:5px 5px 5px 5px;
+}
+
+#secondLight{
+	border-radius: 50%;
+	border: 1px solid yellow;
+	width: 90px;
+	height: 90px;
+	margin:5px 5px 5px 5px;
+}
+
+#thirdLight{
+	border-radius: 50%;
+	border: 1px solid green;
+	width: 90px;
+	height: 90px;
+	margin:5px 5px 5px 5px;
+}
+
+#start{
+	width: 100px;
+	height: 50px;
+	background-color: black;
+	font-weight: bold;
+	color: white;
+	display: table;
+	margin: 0 auto;
+}
+
+
+
